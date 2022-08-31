@@ -18,6 +18,8 @@ body {
   width: 280px;
   height: 400px;
   position: relative;
+  transition:transform .4s;
+  perspective:800px;
 }
 
 .paper {
