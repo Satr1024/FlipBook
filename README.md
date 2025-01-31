@@ -1,2 +1,2 @@
 # FlipBook
-visit - https://satr1024.github.io/FlipBook/
+visit - https://aklu-10.github.io/FlipBook/
